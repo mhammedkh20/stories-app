@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "591731171425",
+    "firebase_url": "https://blogs-ff82f.firebaseio.com",
+    "project_id": "blogs-ff82f",
+    "storage_bucket": "blogs-ff82f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591731171425:android:1a51c6937c4c7603",
+        "android_client_info": {
+          "package_name": "com.salehh.hekaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591731171425-npf7q64tia8h7r9k1osibrk1e5qhcutv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVOKES4ay3og4s6lHfyYNC_p96GM490Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591731171425-npf7q64tia8h7r9k1osibrk1e5qhcutv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "591731171425-fhsd58oekdi024t8jmjbg8stfrlvnn64.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.salah.storiesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591731171425:android:94c1ebf469b731c4",
+        "android_client_info": {
+          "package_name": "com.salehh.kartoon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591731171425-npf7q64tia8h7r9k1osibrk1e5qhcutv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVOKES4ay3og4s6lHfyYNC_p96GM490Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591731171425-npf7q64tia8h7r9k1osibrk1e5qhcutv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "591731171425-fhsd58oekdi024t8jmjbg8stfrlvnn64.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.salah.storiesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591731171425:android:36e96d322aba1044",
+        "android_client_info": {
+          "package_name": "com.salehh.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591731171425-npf7q64tia8h7r9k1osibrk1e5qhcutv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVOKES4ay3og4s6lHfyYNC_p96GM490Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591731171425-npf7q64tia8h7r9k1osibrk1e5qhcutv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "591731171425-fhsd58oekdi024t8jmjbg8stfrlvnn64.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.salah.storiesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591731171425:android:74b499ba5eb1d0ae210a20",
+        "android_client_info": {
+          "package_name": "com.storyvideo.saleh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591731171425-npf7q64tia8h7r9k1osibrk1e5qhcutv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVOKES4ay3og4s6lHfyYNC_p96GM490Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591731171425-npf7q64tia8h7r9k1osibrk1e5qhcutv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "591731171425-fhsd58oekdi024t8jmjbg8stfrlvnn64.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.salah.storiesApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

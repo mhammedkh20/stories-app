@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>591731171425-fhsd58oekdi024t8jmjbg8stfrlvnn64.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.591731171425-fhsd58oekdi024t8jmjbg8stfrlvnn64</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA_KC6dRoNgkoNa9ZzcZyLtND_WXM4eG10</string>
+	<key>GCM_SENDER_ID</key>
+	<string>591731171425</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.salah.storiesApp</string>
+	<key>PROJECT_ID</key>
+	<string>blogs-ff82f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>blogs-ff82f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:591731171425:ios:b6823c71549fcc48210a20</string>
+	<key>DATABASE_URL</key>
+	<string>https://blogs-ff82f.firebaseio.com</string>
+</dict>
+</plist>
